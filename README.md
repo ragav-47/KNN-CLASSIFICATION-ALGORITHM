@@ -21,12 +21,19 @@ Non-parametric learning algorithm − KNN is also a non-parametric learning algo
 2.Preprocess the data by converting the string column to integer column and then rescale it.</br>
 3.Determine the min and Max values for each columns and then split the dataset into k folds then calculate the Euclidean distance between two vectors and then print the accuracy of our model.
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 ## Program:
 ```
 /*
 Program to implement KNN classification algorithm.
-Developed by   : Vijayaragavan ARR
-RegisterNumber :  212220230059
+Developed by   : VIJAYARAGAVAN ARR
+Register Number : 212220230059
 */
 ```
 ```python
